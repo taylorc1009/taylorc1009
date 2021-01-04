@@ -4,8 +4,9 @@ I am currently a student at Edinburgh Napier University, pursuing a Bachelor's d
 
 I like to write in:
 * Low-level languages, such as C/C++.
-* High-level languages - I am currently looking learn more about Python and Kotlin/Dart, but I currently have considerable experience in C# and Java.
+* High-level languages - I currently have considerable experience in C# and Java, but I am currently looking learn more about Python and Kotlin/Dart.
 * Web Frameworks - I'm beginning personal study of web apps. I have not produced any at a release level so far, but I am about to do so.
+<br/>
 
 [![Taylor's github stats](https://github-readme-stats.vercel.app/api?username=taylorc1009&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 
