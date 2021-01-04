@@ -21,6 +21,7 @@ __💬 Get in touch with me:__
 
 [facebook]: https://www.facebook.com/taylorc1009
 [linkedin]: https://www.linkedin.com/in/taylor-courtney-27a70019b
+<br/>
 
 [![Taylor's Github Stats](https://github-readme-stats.vercel.app/api?username=taylorc1009&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 
