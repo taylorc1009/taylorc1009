@@ -1,4 +1,4 @@
-### Hey there 👋 welcome to my GitHub profile!
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> welcome to my GitHub profile!
 
 I am currently a student at Edinburgh Napier University, pursuing a Bachelor's degree in Software Engineering. Here, you will find: personal projects, university courseworks, and group projects I've contributed to during my time at university.
 
@@ -18,8 +18,8 @@ I am currently a student at Edinburgh Napier University, pursuing a Bachelor's d
 
 __💬 Get in touch with me:__
 
-[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>][facebook]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
+[<img align="left" alt="Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>][facebook]
+[<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 
 [facebook]: https://www.facebook.com/taylorc1009
 [linkedin]: https://www.linkedin.com/in/taylor-courtney-27a70019b
