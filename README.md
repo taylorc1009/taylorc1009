@@ -24,9 +24,7 @@ __💬 Get in touch with me:__
 <br/>
 
 # 📊 Statistics
-[![Taylor's Github Stats](https://github-readme-stats.vercel.app/api?username=taylorc1009&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
-
-[![Taylor's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taylorc1009&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Taylor's Github Stats](https://github-readme-stats.vercel.app/api?username=taylorc1009&count_private=true&include_all_commits=true&theme=radical)](https://google.com) [![Taylor's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taylorc1009&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **taylorc1009/taylorc1009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
