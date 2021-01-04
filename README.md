@@ -14,7 +14,7 @@ I am currently a student at Edinburgh Napier University, pursuing a Bachelor's d
 * Web Frameworks - I'm beginning personal study of web apps. I have not produced any at a release level so far, but I am about to do so.
 * Linux - I have a little experience with Linux (more specifically, Ubuntu and Arch Linux), which I will expand as I use it more.
 
-# 💬 Get in touch with me:
+__💬 Get in touch with me:__
 
 [<img align="left" alt="Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>][facebook]
 [<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
