@@ -5,9 +5,8 @@ I am currently a student at Edinburgh Napier University, pursuing a Bachelor's d
 😄 I like to write in:
 * Low-level languages, such as C/C++.
 * High-level languages - I currently have considerable experience in:
-	* <img align="left" alt="C#" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg"/>
-	* <img align="left" alt="C#" width="22px" src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg"/>
-<br/>
+	* <img align="left" alt="C#" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg"/><br/>
+	* <img align="left" alt="C#" width="22px" src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg"/><br/>
 
 🤔 I'm looking to learn/improve:
 * Python - I wrote a small Python sentiment analysis application as a university coursework which kicked off my Python experience, but I will expand it at some point.
