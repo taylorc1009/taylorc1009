@@ -12,8 +12,8 @@ I like to write in:
 
 __Get in touch with me:__
 
-[<img align="left" alt="Facebook" width="22px" src="images/facebook.svg"/>][facebook]
-[<img align="left" alt="LinkedIn" width="22px" src="images/linkedin.svg"/>][linkedin]
+[<img align="left" alt="Facebook" width="22px" src="icons/facebook.svg"/>][facebook]
+[<img align="left" alt="LinkedIn" width="22px" src="icons/linkedin.svg"/>][linkedin]
 
 [facebook]: https://www.facebook.com/taylorc1009
 [linkedin]: https://www.linkedin.com/in/taylor-courtney-27a70019b
