@@ -1,10 +1,11 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> welcome to my GitHub profile!
+### Hey there 👋 welcome to my GitHub profile!
 
 I am currently a student at Edinburgh Napier University, pursuing a Bachelor's degree in Software Engineering. Here, you will find: personal projects, university courseworks, and group projects I've contributed to during my time at university.
 <br/><br/>
 
 😄 I like to write in:
-<!--* Low-level languages:
+<!-- I have removed the URLs to these images as they do not resize on mobile and end up being really big (on mobile, the HTML 'width' parameter doesn't work, so the natural image size is used)
+* Low-level languages:
 	* <img align="left" alt="C" width="35px" src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png"/><br/><br/>
 	* <img align="left" alt="C++" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"/><br/><br/>
 * High-level languages - I currently have considerable experience in:
