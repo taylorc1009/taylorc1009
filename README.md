@@ -36,7 +36,7 @@ I am currently a student at Edinburgh Napier University, pursuing a Bachelor's d
 <br/><br/>
 * <img align="left" alt="Flutter" width="30px" src="icons/flutter.png"/>Eventually, after experience with both Kotlin and web frameworks, I'd like to gain some experience using Flutter.
 </br></br><br/>
-* <img align="left" alt="Linux" width="30px" src="icons/linux"/>I have a little experience with Linux (more specifically, Ubuntu and Arch Linux), which I will expand as I use it more.
+* <img align="left" alt="Linux" width="30px" src="icons/linux.png"/>I have a little experience with Linux (more specifically, Ubuntu and Arch Linux), which I will expand as I use it more.
 </br></br><br/>
 
 __💬 Get in touch with me:__
