@@ -14,8 +14,8 @@ I am currently a student at Edinburgh Napier University, pursuing a Bachelor's d
 	* <img align="left" alt="C" width="35px" src="icons/C.png"/><br/><br/>
 	* <img align="left" alt="C++" width="35px" src="icons/CPP.png"/><br/><br/>
 * High-level languages - I currently have considerable experience in:
-	* <img align="left" alt="C#" width="38px" src="icons/CSharp.png"/><br/><br/>
-	* <img align="left" alt="Java" width="22px" src="icons/Java.png"/>
+	* <img align="left" alt="C#" width="35px" src="icons/CSharp.png"/><br/><br/>
+	* <img align="left" alt="Java" width="35px" src="icons/Java.png"/>
 <br/><br/>
 
 🤔 I'm looking to learn/improve:
