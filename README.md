@@ -12,7 +12,7 @@ I am currently a student at Edinburgh Napier University, pursuing a Bachelor's d
 
 🤔 I'm looking to learn/improve:
 * <img align="left" alt="Python" width="22px" src="https://images.ctfassets.net/tvfg2m04ppj4/C1kxD19GTGr2UPntsColF/6b3a4b2655021507fc36dbde7b6b2697/Python-logo-notext.svg_.png?w=800"/>I wrote a small Python sentiment analysis application as a university coursework which kicked off my Python experience, but I will expand it at some point.
-* Dart (and Kotlin) - I have produced an Android app in Java, though I would like to write one in Kotlin at least.
+* <img align="left" alt="Python" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin-logo.svg"/>I have produced an Android app in Java, though I would like to write one in Kotlin at least.
 * Web Frameworks - I'm beginning personal study of web apps. I have not produced any at a release level so far, but I am about to do so.
 * Linux - I have a little experience with Linux (more specifically, Ubuntu and Arch Linux), which I will expand as I use it more.
 
