@@ -1,6 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> welcome to my GitHub profile!
 
 I am currently a student at Edinburgh Napier University, pursuing a Bachelor's degree in Software Engineering. Here, you will find: personal projects, university courseworks, and group projects I've contributed to during my time at university.
+<br/>
 
 😄 I like to write in:
 * Low-level languages:
@@ -9,7 +10,6 @@ I am currently a student at Edinburgh Napier University, pursuing a Bachelor's d
 * High-level languages - I currently have considerable experience in:
 	* <img align="left" alt="C#" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg"/><br/><br/>
 	* <img align="left" alt="Java" width="22px" src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg"/><br/><br/>
-<br/><br/>
 
 🤔 I'm looking to learn/improve:
 * <img align="left" alt="Python" width="30px" src="https://images.ctfassets.net/tvfg2m04ppj4/C1kxD19GTGr2UPntsColF/6b3a4b2655021507fc36dbde7b6b2697/Python-logo-notext.svg_.png?w=800"/>I wrote a small Python sentiment analysis application as a university coursework which kicked off my Python experience, but I will expand it at some point.
