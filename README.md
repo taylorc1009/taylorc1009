@@ -3,7 +3,9 @@
 I am currently a student at Edinburgh Napier University, pursuing a Bachelor's degree in Software Engineering. Here, you will find: personal projects, university courseworks, and group projects I've contributed to during my time at university.
 
 😄 I like to write in:
-* Low-level languages: <img align="left" alt="C++" width="32px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"/>/<img align="left" alt="C++" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"/><br/><br/>
+* Low-level languages:
+	* <img align="left" alt="C" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"/>
+	* <img align="left" alt="C++" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"/><br/><br/>
 * High-level languages - I currently have considerable experience in:
 	* <img align="left" alt="C#" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg"/><br/><br/>
 	* <img align="left" alt="Java" width="22px" src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg"/><br/><br/>
