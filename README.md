@@ -17,6 +17,7 @@ I am currently a student at Edinburgh Napier University, pursuing a Bachelor's d
 * <img align="left" alt="Flutter" width="30px" src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png"/>Eventually, after experience with both Kotlin and web frameworks, I'd like to gain some experience using Flutter.</br></br>
 * <img align="left" alt="Linux" width="30px" src="https://cdn4.iconfinder.com/data/icons/logo-brand/512/linux_operating_system_logo-512.png"/>I have a little experience with Linux (more specifically, Ubuntu and Arch Linux), which I will expand as I use it more.
 
+</br>
 __💬 Get in touch with me:__
 
 [<img align="left" alt="Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>][facebook]
@@ -24,7 +25,7 @@ __💬 Get in touch with me:__
 
 [facebook]: https://www.facebook.com/taylorc1009
 [linkedin]: https://www.linkedin.com/in/taylor-courtney-27a70019b
-<br/>
+<br/></br>
 
 ### :octocat: Statistics
 [![Taylor's Github Stats](https://github-readme-stats.vercel.app/api?username=taylorc1009&show_icons=true&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
