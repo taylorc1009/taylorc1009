@@ -12,9 +12,10 @@ I am currently a student at Edinburgh Napier University, pursuing a Bachelor's d
 
 🤔 I'm looking to learn/improve:
 * <img align="left" alt="Python" width="22px" src="https://images.ctfassets.net/tvfg2m04ppj4/C1kxD19GTGr2UPntsColF/6b3a4b2655021507fc36dbde7b6b2697/Python-logo-notext.svg_.png?w=800"/>I wrote a small Python sentiment analysis application as a university coursework which kicked off my Python experience, but I will expand it at some point.
-* <img align="left" alt="Python" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin-logo.svg"/>I have produced an Android app in Java, though I would like to write one in Kotlin at least.
-* Web Frameworks - I'm beginning personal study of web apps. I have not produced any at a release level so far, but I am about to do so.
-* Linux - I have a little experience with Linux (more specifically, Ubuntu and Arch Linux), which I will expand as I use it more.
+* <img align="left" alt="Kotlin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin-logo.svg"/>I have produced an Android app in Java, though I would like to write one in Kotlin.
+* <img align="left" alt="Web Frameworks" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Internet-icon.svg"/>I'm beginning personal study of web frameworks, more specifically Python Flask. Although, I would consider learning others, such as Django. I have not produced any at a release level so far. 
+* <img align="left" alt="Flutter" width="22px" src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png"/>Eventually, after experience with both Kotlin and web frameworks, I'd like to gain some experience using Flutter.
+* <img align="left" alt="Linux" width="22px" src="https://cdn4.iconfinder.com/data/icons/logo-brand/512/linux_operating_system_logo-512.png"/>I have a little experience with Linux (more specifically, Ubuntu and Arch Linux), which I will expand as I use it more.
 
 __💬 Get in touch with me:__
 
