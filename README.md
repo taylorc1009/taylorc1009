@@ -23,8 +23,9 @@ __💬 Get in touch with me:__
 [linkedin]: https://www.linkedin.com/in/taylor-courtney-27a70019b
 <br/>
 
-# 📊 Statistics
+### 📊 Statistics
 [![Taylor's Github Stats](https://github-readme-stats.vercel.app/api?username=taylorc1009&show_icons=true&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
+
 [![Taylor's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taylorc1009&layout=compact&line_height=50&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
