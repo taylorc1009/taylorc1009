@@ -9,10 +9,10 @@ I like to write in:
 
 [![Taylor's github stats](https://github-readme-stats.vercel.app/api?username=taylorc1009&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 
+__Get in touch with me:__
 [<img align="left" alt="Facebook" width="22px" src="images/facebook.svg"/>][facebook]
 [<img align="left" alt="LinkedIn" width="22px" src="images/linkedin.svg"/>][linkedin]
 
-### Get in touch with me:
 [facebook]: https://www.facebook.com/taylorc1009
 [linkedin]: https://www.linkedin.com/in/taylor-courtney-27a70019b
 
