@@ -10,7 +10,7 @@ I am currently a student at Edinburgh Napier University, pursuing a Bachelor's d
 * High-level languages - I currently have considerable experience in:
 	* <img align="left" alt="C#" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg"/><br/><br/>
 	* <img align="left" alt="Java" width="22px" src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg"/>
-<br/><br/><br/>
+<br/><br/>
 
 🤔 I'm looking to learn/improve:
 * <img align="left" alt="Python" width="30px" src="https://images.ctfassets.net/tvfg2m04ppj4/C1kxD19GTGr2UPntsColF/6b3a4b2655021507fc36dbde7b6b2697/Python-logo-notext.svg_.png?w=800"/>I wrote a small Python sentiment analysis application as a university coursework which kicked off my Python experience, but I will expand it at some point.<br/><br/>
