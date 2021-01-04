@@ -5,11 +5,11 @@ I am currently a student at Edinburgh Napier University, pursuing a Bachelor's d
 😄 I like to write in:
 * Low-level languages, such as C/C++.
 * High-level languages - I currently have considerable experience in:
-	* <img align="left" alt="C#" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg"/><br/><br/>
-	* <img align="left" alt="C#" width="22px" src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg"/><br/><br/>
+	* <img align="left" alt="C#" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg"/><br/><br/>
+	* <img align="left" alt="Java" width="22px" src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg"/><br/><br/>
 
 🤔 I'm looking to learn/improve:
-* Python - I wrote a small Python sentiment analysis application as a university coursework which kicked off my Python experience, but I will expand it at some point.
+* <img align="left" alt="Python" width="22px" src="https://images.ctfassets.net/tvfg2m04ppj4/C1kxD19GTGr2UPntsColF/6b3a4b2655021507fc36dbde7b6b2697/Python-logo-notext.svg_.png?w=800"/> - I wrote a small Python sentiment analysis application as a university coursework which kicked off my Python experience, but I will expand it at some point.
 * Dart (and Kotlin) - I have produced an Android app in Java, though I would like to write one in Kotlin at least.
 * Web Frameworks - I'm beginning personal study of web apps. I have not produced any at a release level so far, but I am about to do so.
 * Linux - I have a little experience with Linux (more specifically, Ubuntu and Arch Linux), which I will expand as I use it more.
@@ -27,18 +27,3 @@ __💬 Get in touch with me:__
 [![Taylor's Github Stats](https://github-readme-stats.vercel.app/api?username=taylorc1009&show_icons=true&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 
 [![Taylor's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taylorc1009&layout=compact&line_height=50&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**taylorc1009/taylorc1009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
