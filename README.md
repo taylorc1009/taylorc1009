@@ -9,16 +9,17 @@ I am currently a student at Edinburgh Napier University, pursuing a Bachelor's d
 	* Java
 
 🤔 I'm looking to learn/improve:
-* Python - I did a small Python sentiment analysis as a university coursework, which kicked off my Python experience but I will expand it at some point.
+* Python - I wrote a small Python sentiment analysis application as a university coursework which kicked off my Python experience, but I will expand it at some point.
 * Dart (and Kotlin) - I have produced an Android app in Java, though I would like to write one in Kotlin at least.
 * Web Frameworks - I'm beginning personal study of web apps. I have not produced any at a release level so far, but I am about to do so.
+* Linux - I have a little experience with Linux (more specifically, Ubuntu and Arch Linux), which I will expand as I use it more.
 
 [![Taylor's github stats](https://github-readme-stats.vercel.app/api?username=taylorc1009&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 
 __💬 Get in touch with me:__
 
-[<img align="left" alt="Facebook" width="22px" src="icons/facebook.svg"/>][facebook]
-[<img align="left" alt="LinkedIn" width="22px" src="icons/linkedin.svg"/>][linkedin]
+[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>][facebook]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 
 [facebook]: https://www.facebook.com/taylorc1009
 [linkedin]: https://www.linkedin.com/in/taylor-courtney-27a70019b
