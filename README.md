@@ -14,8 +14,6 @@ I am currently a student at Edinburgh Napier University, pursuing a Bachelor's d
 * Web Frameworks - I'm beginning personal study of web apps. I have not produced any at a release level so far, but I am about to do so.
 * Linux - I have a little experience with Linux (more specifically, Ubuntu and Arch Linux), which I will expand as I use it more.
 
-[![Taylor's github stats](https://github-readme-stats.vercel.app/api?username=taylorc1009&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
-
 __💬 Get in touch with me:__
 
 [<img align="left" alt="Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>][facebook]
@@ -23,6 +21,10 @@ __💬 Get in touch with me:__
 
 [facebook]: https://www.facebook.com/taylorc1009
 [linkedin]: https://www.linkedin.com/in/taylor-courtney-27a70019b
+
+[![Taylor's Github Stats](https://github-readme-stats.vercel.app/api?username=taylorc1009&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
+
+[![Taylor's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **taylorc1009/taylorc1009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
