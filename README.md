@@ -2,15 +2,20 @@
 
 I am currently a student at Edinburgh Napier University, pursuing a Bachelor's degree in Software Engineering. Here, you will find: personal projects, university courseworks, and group projects I've contributed to during my time at university.
 
-I like to write in:
+😄 I like to write in:
 * Low-level languages, such as C/C++.
-* High-level languages - I currently have considerable experience in C# and Java, but I am currently looking learn more about Python and Kotlin/Dart.
+* High-level languages - I currently have considerable experience in:
+	* C#
+	* Java
+
+🤔 I'm looking to learn/improve:
+* Python - I did a small Python sentiment analysis as a university coursework, which kicked off my Python experience but I will expand it at some point.
+* Dart (and Kotlin) - I have produced an Android app in Java, though I would like to write one in Kotlin at least.
 * Web Frameworks - I'm beginning personal study of web apps. I have not produced any at a release level so far, but I am about to do so.
-<br/>
 
 [![Taylor's github stats](https://github-readme-stats.vercel.app/api?username=taylorc1009&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 
-__Get in touch with me:__
+__💬 Get in touch with me:__
 
 [<img align="left" alt="Facebook" width="22px" src="icons/facebook.svg"/>][facebook]
 [<img align="left" alt="LinkedIn" width="22px" src="icons/linkedin.svg"/>][linkedin]
