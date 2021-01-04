@@ -12,6 +12,7 @@ I like to write in:
 [<img align="left" alt="Facebook" width="22px" src="images/facebook.svg"/>][facebook]
 [<img align="left" alt="LinkedIn" width="22px" src="images/linkedin.svg"/>][linkedin]
 
+__Get in touch with me:__
 [facebook]: https://www.facebook.com/taylorc1009
 [linkedin]: https://www.linkedin.com/in/taylor-courtney-27a70019b
 
