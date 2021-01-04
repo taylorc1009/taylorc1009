@@ -1,7 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> welcome to my GitHub profile!
 
 I am currently a student at Edinburgh Napier University, pursuing a Bachelor's degree in Software Engineering. Here, you will find: personal projects, university courseworks, and group projects I've contributed to during my time at university.
-<br/>
+<br/><br/>
 
 😄 I like to write in:
 * Low-level languages:
