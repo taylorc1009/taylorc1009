@@ -14,7 +14,7 @@ I am currently a student at Edinburgh Napier University, pursuing a Bachelor's d
 * Low-level languages:
 	* <img align="left" alt="C" width="35px" src="icons/c.png"/><br/><br/>
 	* <img align="left" alt="C++" width="35px" src="icons/cpp.png"/><br/><br/>
-* High-level languages - I currently have considerable experience in:
+* High-level languages - these are more like languages that I currently have considerable experience in, as opposed to what I like to use:
 	* <img align="left" alt="C#" width="35px" src="icons/csharp.png"/><br/><br/>
 	* <img align="left" alt="Java" width="35px" src="icons/java.png"/>
 <br/>
