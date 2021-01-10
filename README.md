@@ -40,7 +40,7 @@ I am currently a student at Edinburgh Napier University, pursuing a Bachelor's d
 * <img align="left" alt="Linux" width="30px" src="icons/linux.png"/> I have a little experience with Linux (more specifically, Ubuntu and Arch Linux), which I will expand as I use it more.
 </br></br><br/>
 
-__💬 Get in touch with me:__
+__💬 You can get in touch with me on:__
 
 <!--[<img align="left" alt="Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>][facebook]
 [<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]-->
