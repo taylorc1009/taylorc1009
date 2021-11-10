@@ -21,7 +21,7 @@ I am currently a student at Edinburgh Napier University, pursuing a Bachelor's d
 [facebook]: https://www.facebook.com/taylorc1009
 [instagram]:https://www.instagram.com/taylor.c_9/
 [snapchat]:https://www.snapchat.com/add/taylorc1009?share_id=mCizND8_DNg&locale=en-GB
-[linkedin]: https://www.linkedin.com/in/taylor-courtney-27a70019b
+[linkedin]: https://www.linkedin.com/in/taylorc1009
 [spotify]:https://open.spotify.com/user/1139558432?si=170bf714eb744793
 <br/>
 
