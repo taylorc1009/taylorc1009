@@ -23,7 +23,7 @@ I am currently a student at Edinburgh Napier University, pursuing a Bachelor's d
 [snapchat]:https://www.snapchat.com/add/taylorc1009?share_id=mCizND8_DNg&locale=en-GB
 [linkedin]: https://www.linkedin.com/in/taylor-courtney-27a70019b
 [spotify]:https://open.spotify.com/user/1139558432?si=170bf714eb744793
-<br/></br>
+<br/>
 
 ## :octocat: Statistics
 <div align="center">
