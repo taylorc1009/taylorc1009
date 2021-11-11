@@ -16,13 +16,15 @@ I am currently a student at Edinburgh Napier University, pursuing a Bachelor's (
 <br/><br/>
 
 ## 💬 Get in touch!
-[<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook.svg'>][facebook] [<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg'>][instagram] [<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/snapchat.svg'>][snapchat] [<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg'>][linkedin] [<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spotify.svg'>][spotify]
+[<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook.svg'>][facebook] [<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg'>][instagram] [<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/snapchat.svg'>][snapchat] [<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg'>][linkedin] [<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spotify.svg'>][spotify] [<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/leet-code.svg'>][leet-code] [<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/hackerrank.svg'>][hackerrank]
 
 [facebook]: https://www.facebook.com/taylorc1009
 [instagram]:https://www.instagram.com/taylor.c_9/
 [snapchat]:https://www.snapchat.com/add/taylorc1009?share_id=mCizND8_DNg&locale=en-GB
 [linkedin]: https://www.linkedin.com/in/taylorc1009
 [spotify]:https://open.spotify.com/user/1139558432?si=170bf714eb744793
+[leet-code]:https://leetcode.com/taylorcourtney2000/
+[hackerrank]:https://www.hackerrank.com/taylorcourtney21
 <br/>
 
 ## :octocat: Statistics
