@@ -1,6 +1,6 @@
 ### Hey there 👋 welcome to my GitHub profile!
 
-I am currently a student at Edinburgh Napier University, pursuing a Bachelor's (with Honours) degree in Software Engineering. I have been coding since I was 15 years old (2015). Here, you will find: personal projects, university courseworks, and group projects I've contributed to during my time at university.
+I am currently a student at Edinburgh Napier University, pursuing a Bachelor's (with Honours) degree in Software Engineering. I have been coding since I was 15 years old (2015, see [my first project](https://github.com/taylorc1009/Predator-GSC)). Here, you will find: personal projects, university courseworks, group projects I've partaken in to during my time at university, and organisation(s) to which I contribute.
 
 ![Profile views](https://komarev.com/ghpvc/?username=taylorc1009&color=red&style=flat) [![Github](https://img.shields.io/github/followers/taylorc1009?label=Follow&style=social)](https://github.com/taylorc1009)
 <br/><br/>
