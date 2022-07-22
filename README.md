@@ -1,6 +1,6 @@
 ### Hey there 👋 welcome to my GitHub profile!
 
-I am a Software Engineer at [GetBuzz](https://github.com/getbuzzuk) and a postgraduate student from Edinburgh Napier University, with a First Class Bachelor's (with Honours) degree in Software Engineering. I have been coding since I was 15 years old (2015, [here is my first project](https://github.com/taylorc1009/Predator-GSC)). In my profile, you will find: personal projects, university courseworks, group projects I've partaken in to during my time at university, and organisation(s) to which I contribute.
+I am a former Software Engineer at [GetBuzz](https://github.com/getbuzzuk) and a postgraduate student from Edinburgh Napier University, with a First Class Bachelor's (with Honours) degree in Software Engineering. I have been coding since I was 15 years old (2015, [here is my first project](https://github.com/taylorc1009/Predator-GSC)). In my profile, you will find: personal projects, university courseworks, group projects I've partaken in to during my time at university, and organisation(s) to which I contribute.
 
 ![Profile views](https://komarev.com/ghpvc/?username=taylorc1009&color=red&style=flat) [![Github](https://img.shields.io/github/followers/taylorc1009?label=Follow&style=social)](https://github.com/taylorc1009)
 <br/><br/>
